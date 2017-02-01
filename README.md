@@ -1,4 +1,6 @@
 #Glixer - GitHub Pages, Gulp, Jekyll, SCSS, Bootstrap. 
+
+[![Join the chat at https://gitter.im/M-C-C-github-io/Lobby](https://badges.gitter.im/M-C-C-github-io/Lobby.svg)](https://gitter.im/M-C-C-github-io/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Blog, Portfolio & Website build system.
 
 ## Why?
